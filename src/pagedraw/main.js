@@ -204,191 +204,216 @@ export default class Main extends React.Component {
                           <div className="main-references_-8">REFERENCES</div>
                       </div>
                       <div className="main-0-14-1-1">
-                          <div className="main-_marcus_and_i_went_to_nyu_together_he_s_a_super_smart_entrepreneur_with_big_ideas_and_fine_execution_i_often_believe_in_backing_people_over_ideas_marcus_is_a_perfect_example_of_the_type_of_person_i_would_back_even_without_an_idea_-2">
-                              {"\" Marcus and I went to NYU together. He's a super smart entrepreneur with big ideas and fine execution. I often believe in backing people over ideas. Marcus is a perfect example of the type of person I would back (even without an idea)! \" "}
+                          <div className="main-_marcus_is_a_very_talented_entrepreneur_who_has_boundless_energy_and_an_incredible_work_ethic_he_thoroughly_understands_all_aspects_of_building_a_start-up_business_from_product_development_to_bizdev_to_coding_super_impressive_guy_-3">
+                              {"\“Marcus is a very talented entrepreneur who has boundless energy and an incredible work ethic.  He thoroughly understands all aspects of building a start-up business, from product development to bizdev to coding.  Super impressive guy.\”"}
                           </div>
                       </div>
                       <div className="main-0-14-1-2">
-                          <a href="https://www.linkedin.com/in/brycemaddock/" target="_blank" className="main-0-14-1-2-0">
-                              <div className="main-bryce_maddock_-2">BRYCE MADDOCK</div>
+                          <a href="https://www.linkedin.com/in/gowdey/" target="_blank" className="main-0-14-1-2-0">
+                              <div className="main-david_gowdey_-5">DAVID GOWDEY</div>
                           </a>
                       </div>
                       <div className="main-0-14-1-3">
-                          <div className="main-0-14-1-3-0">
-                              <div className="main-0-14-1-3-0-0">
-                                  <div className="main-ceo_co-founder_-8">
-                                      {"CEO | Co-Founder, "}
-                                  </div>
-                              </div>
+                          <div className="main-managing_partner_-7">
+                              Managing Partner, 
                           </div>
-                          <a href="https://www.taskus.com/" target="_blank" className="main-0-14-1-3-1">
+                          <a href="http://www.jungle-ventures.com/" target="_blank" className="main-0-14-1-3-1">
                               <div className="main-referencelink_instance-6">
-                                  <Referencelink text={"TaskUs"} /> 
+                                  <Referencelink text={"Jungle Ventures"} /> 
                               </div>
                           </a>
                       </div>
                       <div className="main-0-14-1-4">
-                          <div className="main-referencelink_instance-2">
-                              <Referencelink text={"Valued at over $500M "} /> 
+                          <div className="main-largest_early_stage_vc_fund_in_se_asia_-3">
+                              Largest early stage VC fund in SE Asia
                           </div>
                       </div>
                       <div className="main-0-14-1-5">
-                          <div className="main-_marcus_is_a_thoughtful_collaborator_a_philosopher_in_developer_s_shoes_he_strives_to_understand_the_undercurrents_of_what_he_makes_a_key_component_to_creating_things_full_of_meaning_working_with_him_is_a_joy_-5">
-                              {"\"Marcus is a thoughtful collaborator—a philosopher in developer's shoes. He strives to understand the undercurrents of what he makes, a key component to creating things full of meaning. Working with him is a joy.\""}
+                          <div className="main-_marcus_and_i_went_to_nyu_together_he_s_a_super_smart_entrepreneur_with_big_ideas_and_fine_execution_i_often_believe_in_backing_people_over_ideas_marcus_is_a_perfect_example_of_the_type_of_person_i_would_back_even_without_an_idea_-2">
+                              {"\" Marcus and I went to NYU together. He's a super smart entrepreneur with big ideas and fine execution. I often believe in backing people over ideas. Marcus is a perfect example of the type of person I would back (even without an idea)! \" "}
                           </div>
                       </div>
                       <div className="main-0-14-1-6">
-                          <a href="https://www.linkedin.com/in/joeycofone/" target="_blank" className="main-0-14-1-6-0">
-                              <div className="main-joey_cofone_-9">JOEY COFONE</div>
+                          <a href="https://www.linkedin.com/in/brycemaddock/" target="_blank" className="main-0-14-1-6-0">
+                              <div className="main-bryce_maddock_-2">BRYCE MADDOCK</div>
                           </a>
                       </div>
                       <div className="main-0-14-1-7">
                           <div className="main-0-14-1-7-0">
                               <div className="main-0-14-1-7-0-0">
-                                  <div className="main-ceo_co-founder_-5">
-                                      {"CEO | Co-Founder,"}
+                                  <div className="main-ceo_co-founder_-8">
+                                      {"CEO | Co-Founder, "}
                                   </div>
                               </div>
                           </div>
-                          <a href="https://www.baronfig.com/" target="_blank" className="main-0-14-1-7-1">
-                              <div className="main-referencelink_instance-5">
-                                  <Referencelink text={"Baron Fig"} /> 
+                          <a href="https://www.taskus.com/" target="_blank" className="main-0-14-1-7-1">
+                              <div className="main-referencelink_instance-61">
+                                  <Referencelink text={"TaskUs"} /> 
                               </div>
                           </a>
                       </div>
                       <div className="main-0-14-1-8">
-                          <a href="http://joeycofone.com/about/" target="_blank" className="main-0-14-1-8-0">
-                              <div className="main-referencelink_instance-0">
-                                  <Referencelink text={"Award winning designer"} /> 
-                              </div>
-                          </a>
+                          <div className="main-referencelink_instance-2">
+                              <Referencelink text={"Valued at over $500M "} /> 
+                          </div>
                       </div>
                       <div className="main-0-14-1-9">
-                          <div className="main-_marcus_is_a_fellow_startup_founder_i_ve_met_with_a_few_times_in_nyc_who_is_serious_determined_and_extremely_smart_i_ve_watched_him_build_up_wurk_happy_from_idea_stage_to_design_mockup_to_product_and_he_knows_how_to_get_things_done_-0">
-                              {"\"Marcus is a fellow startup founder I've met with a few times in NYC who is serious, determined, and extremely smart. I've watched him build up Wurk Happy from idea stage to design mockup to product, and he knows how to get things done\""}
+                          <div className="main-_marcus_is_a_thoughtful_collaborator_a_philosopher_in_developer_s_shoes_he_strives_to_understand_the_undercurrents_of_what_he_makes_a_key_component_to_creating_things_full_of_meaning_working_with_him_is_a_joy_-5">
+                              {"\"Marcus is a thoughtful collaborator—a philosopher in developer's shoes. He strives to understand the undercurrents of what he makes, a key component to creating things full of meaning. Working with him is a joy.\""}
                           </div>
                       </div>
                       <div className="main-0-14-1-10">
-                          <a href="https://www.linkedin.com/in/andrewmontalenti/" target="_blank" className="main-0-14-1-10-0">
-                              <div className="main-andrew_montalenti_-4">
-                                  ANDREW MONTALENTI
-                              </div>
+                          <a href="https://www.linkedin.com/in/joeycofone/" target="_blank" className="main-0-14-1-10-0">
+                              <div className="main-joey_cofone_-9">JOEY COFONE</div>
                           </a>
                       </div>
                       <div className="main-0-14-1-11">
                           <div className="main-0-14-1-11-0">
                               <div className="main-0-14-1-11-0-0">
-                                  <div className="main-cto_co-founder_-4">
-                                      {"CTO | Co-Founder, "}
+                                  <div className="main-ceo_co-founder_-5">
+                                      {"CEO | Co-Founder,"}
                                   </div>
                               </div>
                           </div>
-                          <a href="https://www.parse.ly/" target="_blank" className="main-0-14-1-11-1">
-                              <div className="main-referencelink_instance-9">
-                                  <Referencelink text={"Parse.ly"} /> 
+                          <a href="https://www.baronfig.com/" target="_blank" className="main-0-14-1-11-1">
+                              <div className="main-referencelink_instance-5">
+                                  <Referencelink text={"Baron Fig"} /> 
                               </div>
                           </a>
                       </div>
                       <div className="main-0-14-1-12">
-                          <a href="https://blog.parse.ly/post/6282/why-we-said-no-vc-money/" target="_blank" className="main-0-14-1-12-0">
-                              <div className="main-referencelink_instance-69">
-                                  <Referencelink text={"Turned down $40 million investment offer"} /> 
+                          <a href="http://joeycofone.com/about/" target="_blank" className="main-0-14-1-12-0">
+                              <div className="main-referencelink_instance-0">
+                                  <Referencelink text={"Award winning designer"} /> 
                               </div>
                           </a>
                       </div>
                       <div className="main-0-14-1-13">
-                          <div className="main-_amazing_and_large_underserved_space_that_needs_better_aggregation_platforms_and_technology_marcus_and_team_wurk_happy_are_winners_and_the_technical_talent_is_also_strong_looking_forward_to_their_inevitable_sucess_with_the_correct_financial_partners_-6">
-                              {"\"Amazing and large underserved space that needs better aggregation platforms and technology. Marcus and team [Wurk Happy] are winners and the technical talent is also strong. Looking forward to their inevitable sucess with the correct financial partners....\""}
+                          <div className="main-_marcus_is_a_fellow_startup_founder_i_ve_met_with_a_few_times_in_nyc_who_is_serious_determined_and_extremely_smart_i_ve_watched_him_build_up_wurk_happy_from_idea_stage_to_design_mockup_to_product_and_he_knows_how_to_get_things_done_-0">
+                              {"\"Marcus is a fellow startup founder I've met with a few times in NYC who is serious, determined, and extremely smart. I've watched him build up Wurk Happy from idea stage to design mockup to product, and he knows how to get things done\""}
                           </div>
                       </div>
                       <div className="main-0-14-1-14">
-                          <a href="https://www.linkedin.com/in/davidolk/" target="_blank" className="main-0-14-1-14-0">
-                              <div className="main-david_olk_-8">DAVID OLK</div>
+                          <a href="https://www.linkedin.com/in/andrewmontalenti/" target="_blank" className="main-0-14-1-14-0">
+                              <div className="main-andrew_montalenti_-4">
+                                  ANDREW MONTALENTI
+                              </div>
                           </a>
                       </div>
                       <div className="main-0-14-1-15">
                           <div className="main-0-14-1-15-0">
                               <div className="main-0-14-1-15-0-0">
-                                  <div className="main-coo_co-founder_-0">
-                                      {"COO | Co-Founder,"}
+                                  <div className="main-cto_co-founder_-4">
+                                      {"CTO | Co-Founder, "}
                                   </div>
                               </div>
                           </div>
-                          <a href="https://www.shopkeep.com/" target="_blank" className="main-0-14-1-15-1">
-                              <div className="main-referencelink_instance-55">
-                                  <Referencelink text={"ShopKeep"} /> 
+                          <a href="https://www.parse.ly/" target="_blank" className="main-0-14-1-15-1">
+                              <div className="main-referencelink_instance-9">
+                                  <Referencelink text={"Parse.ly"} /> 
                               </div>
                           </a>
                       </div>
                       <div className="main-0-14-1-16">
-                          <a href="https://venturebeat.com/2015/07/28/shopkeep-focuses-on-growth-with-60-million-in-series-d-funding/" target="_blank" className="main-0-14-1-16-0">
-                              <div className="main-referencelink_instance-58">
-                                  <Referencelink text={"Raised over $100M"} /> 
+                          <a href="https://blog.parse.ly/post/6282/why-we-said-no-vc-money/" target="_blank" className="main-0-14-1-16-0">
+                              <div className="main-referencelink_instance-69">
+                                  <Referencelink text={"Turned down $40 million investment offer"} /> 
                               </div>
                           </a>
                       </div>
                       <div className="main-0-14-1-17">
-                          <div className="main-_working_with_marcus_is_always_a_pleasure_as_he_is_an_engineer_who_builds_things_from_first_principles_when_they_are_truly_needed_and_doesn_t_get_carried_away_with_the_current_fads_plus_he_s_just_a_genuinely_nice_guy_-0">
-                              {"\"Working with Marcus is always a pleasure as he is an engineer who builds things from first principles when they are truly needed, and doesn’t get carried away with the current fads. Plus, he’s just a genuinely nice guy.\""}
+                          <div className="main-_amazing_and_large_underserved_space_that_needs_better_aggregation_platforms_and_technology_marcus_and_team_wurk_happy_are_winners_and_the_technical_talent_is_also_strong_looking_forward_to_their_inevitable_sucess_with_the_correct_financial_partners_-6">
+                              {"\"Amazing and large underserved space that needs better aggregation platforms and technology. Marcus and team [Wurk Happy] are winners and the technical talent is also strong. Looking forward to their inevitable sucess with the correct financial partners....\""}
                           </div>
                       </div>
                       <div className="main-0-14-1-18">
-                          <a href="https://www.linkedin.com/in/theodorewyly/" target="_blank" className="main-0-14-1-18-0">
-                              <div className="main-teddy_wyly_-6">TEDDY WYLY</div>
+                          <a href="https://www.linkedin.com/in/davidolk/" target="_blank" className="main-0-14-1-18-0">
+                              <div className="main-david_olk_-8">DAVID OLK</div>
                           </a>
                       </div>
                       <div className="main-0-14-1-19">
                           <div className="main-0-14-1-19-0">
                               <div className="main-0-14-1-19-0-0">
+                                  <div className="main-coo_co-founder_-0">
+                                      {"COO | Co-Founder,"}
+                                  </div>
+                              </div>
+                          </div>
+                          <a href="https://www.shopkeep.com/" target="_blank" className="main-0-14-1-19-1">
+                              <div className="main-referencelink_instance-55">
+                                  <Referencelink text={"ShopKeep"} /> 
+                              </div>
+                          </a>
+                      </div>
+                      <div className="main-0-14-1-20">
+                          <a href="https://venturebeat.com/2015/07/28/shopkeep-focuses-on-growth-with-60-million-in-series-d-funding/" target="_blank" className="main-0-14-1-20-0">
+                              <div className="main-referencelink_instance-58">
+                                  <Referencelink text={"Raised over $100M"} /> 
+                              </div>
+                          </a>
+                      </div>
+                      <div className="main-0-14-1-21">
+                          <div className="main-_working_with_marcus_is_always_a_pleasure_as_he_is_an_engineer_who_builds_things_from_first_principles_when_they_are_truly_needed_and_doesn_t_get_carried_away_with_the_current_fads_plus_he_s_just_a_genuinely_nice_guy_-0">
+                              {"\"Working with Marcus is always a pleasure as he is an engineer who builds things from first principles when they are truly needed, and doesn’t get carried away with the current fads. Plus, he’s just a genuinely nice guy.\""}
+                          </div>
+                      </div>
+                      <div className="main-0-14-1-22">
+                          <a href="https://www.linkedin.com/in/theodorewyly/" target="_blank" className="main-0-14-1-22-0">
+                              <div className="main-teddy_wyly_-6">TEDDY WYLY</div>
+                          </a>
+                      </div>
+                      <div className="main-0-14-1-23">
+                          <div className="main-0-14-1-23-0">
+                              <div className="main-0-14-1-23-0-0">
                                   <div className="main-software_engineer_-3">
                                       Software Engineer,
                                   </div>
                               </div>
                           </div>
-                          <a href="https://www.apple.com/" target="_blank" className="main-0-14-1-19-1">
+                          <a href="https://www.apple.com/" target="_blank" className="main-0-14-1-23-1">
                               <div className="main-referencelink_instance-1">
                                   <Referencelink text={"Apple"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-0-14-1-20">
+                      <div className="main-0-14-1-24">
                           <div className="main-writing_-0">WRITING</div>
                       </div>
-                      <div className="main-0-14-1-21">
-                          <a href="https://medium.com/venturemark/wework-southeast-asia-3c5870433a9c" target="_blank" className="main-0-14-1-21-0">
+                      <div className="main-0-14-1-25">
+                          <a href="https://medium.com/venturemark/wework-southeast-asia-3c5870433a9c" target="_blank" className="main-0-14-1-25-0">
                               <div className="main-bloglink_instance-0">
                                   <Bloglink text={"Disruption of ASEAN Real Estate"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-0-14-1-22">
-                          <a href="https://blog.hackerfleet.com/how-the-worlds-best-companies-build-new-products-dc4092300689" target="_blank" className="main-0-14-1-22-0">
+                      <div className="main-0-14-1-26">
+                          <a href="https://blog.hackerfleet.com/how-the-worlds-best-companies-build-new-products-dc4092300689" target="_blank" className="main-0-14-1-26-0">
                               <div className="main-bloglink_instance-5">
                                   <Bloglink text={"How to Build New Products"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-0-14-1-23">
-                          <a href="https://medium.com/venturemark/broken-5985e175ae62" target="_blank" className="main-0-14-1-23-0">
+                      <div className="main-0-14-1-27">
+                          <a href="https://medium.com/venturemark/broken-5985e175ae62" target="_blank" className="main-0-14-1-27-0">
                               <div className="main-bloglink_instance-8">
                                   <Bloglink text={"Investing in Southeast Asian Startups"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-0-14-1-24">
+                      <div className="main-0-14-1-28">
                           <div className="main-bloglink_instance-83">
                               <Bloglink text={"Dear Young Talent"} /> 
                           </div>
                       </div>
-                      <div className="main-0-14-1-25">
+                      <div className="main-0-14-1-29">
                           <div className="main-contact_-8">CONTACT</div>
                       </div>
-                      <div className="main-0-14-1-26">
+                      <div className="main-0-14-1-30">
                           <div className="main-please_contact_me_if_you_are_exceptional_or_strive_to_be_-1">
                               Please contact me if you are exceptional. Or strive to be.
                           </div>
                       </div>
-                      <div className="main-0-14-1-27">
+                      <div className="main-0-14-1-31">
                           <div className="main-marcus_dot_ellison_at_gmail_dot_com_-2">
                               {"marcus [dot] ellison [at] gmail [dot] com"}
                           </div>
@@ -683,128 +708,153 @@ export default class Main extends React.Component {
                           <div className="main-references_-9">REFERENCES</div>
                       </div>
                       <div className="main-1-8-1-1">
+                          <div className="main-_marcus_is_a_very_talented_entrepreneur_who_has_boundless_energy_and_an_incredible_work_ethic_he_thoroughly_understands_all_aspects_of_building_a_start-up_business_from_product_development_to_bizdev_to_coding_super_impressive_guy_-0">
+                              {"\“Marcus is a very talented entrepreneur who has boundless energy and an incredible work ethic.  He thoroughly understands all aspects of building a start-up business, from product development to bizdev to coding.  Super impressive guy.\”"}
+                          </div>
+                      </div>
+                      <div className="main-1-8-1-2">
+                          <a href="https://www.linkedin.com/in/gowdey/" target="_blank" className="main-1-8-1-2-0">
+                              <div className="main-david_gowdey_-9">DAVID GOWDEY</div>
+                          </a>
+                      </div>
+                      <div className="main-1-8-1-3">
+                          <div className="main-managing_partner_-6">
+                              Managing Partner, 
+                          </div>
+                          <a href="http://www.jungle-ventures.com/" target="_blank" className="main-1-8-1-3-1">
+                              <div className="main-referencelink_instance-4">
+                                  <Referencelink text={"Jungle Ventures"} /> 
+                              </div>
+                          </a>
+                      </div>
+                      <div className="main-1-8-1-4">
+                          <div className="main-largest_early_stage_vc_fund_in_se_asia_-5">
+                              Largest early stage VC fund in SE Asia
+                          </div>
+                      </div>
+                      <div className="main-1-8-1-5">
                           <div className="main-_marcus_and_i_went_to_nyu_together_he_s_a_super_smart_entrepreneur_with_big_ideas_and_fine_execution_i_often_believe_in_backing_people_over_ideas_marcus_is_a_perfect_example_of_the_type_of_person_i_would_back_even_without_an_idea_-5">
                               {"\" Marcus and I went to NYU together. He's a super smart entrepreneur with big ideas and fine execution. I often believe in backing people over ideas. Marcus is a perfect example of the type of person I would back (even without an idea)! \" "}
                           </div>
                       </div>
-                      <div className="main-1-8-1-2">
-                          <a href="https://www.linkedin.com/in/brycemaddock/" target="_blank" className="main-1-8-1-2-0">
+                      <div className="main-1-8-1-6">
+                          <a href="https://www.linkedin.com/in/brycemaddock/" target="_blank" className="main-1-8-1-6-0">
                               <div className="main-bryce_maddock_-3">BRYCE MADDOCK</div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-3">
+                      <div className="main-1-8-1-7">
                           <div className="main-ceo_co-founder_-50">
                               {"CEO | Co-Founder, "}
                           </div>
-                          <a href="https://www.taskus.com/" target="_blank" className="main-1-8-1-3-1">
+                          <a href="https://www.taskus.com/" target="_blank" className="main-1-8-1-7-1">
                               <div className="main-referencelink_instance-16">
                                   <Referencelink text={"TaskUs"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-4">
+                      <div className="main-1-8-1-8">
                           <div className="main-referencelink_instance-8">
                               <Referencelink text={"Valued at over $500M "} /> 
                           </div>
                       </div>
-                      <div className="main-1-8-1-5">
+                      <div className="main-1-8-1-9">
                           <div className="main-_marcus_is_a_thoughtful_collaborator_a_philosopher_in_developer_s_shoes_he_strives_to_understand_the_undercurrents_of_what_he_makes_a_key_component_to_creating_things_full_of_meaning_working_with_him_is_a_joy_-2">
                               {"\"Marcus is a thoughtful collaborator—a philosopher in developer's shoes. He strives to understand the undercurrents of what he makes, a key component to creating things full of meaning. Working with him is a joy.\""}
                           </div>
                       </div>
-                      <div className="main-1-8-1-6">
-                          <a href="https://www.linkedin.com/in/joeycofone/" target="_blank" className="main-1-8-1-6-0">
+                      <div className="main-1-8-1-10">
+                          <a href="https://www.linkedin.com/in/joeycofone/" target="_blank" className="main-1-8-1-10-0">
                               <div className="main-joey_cofone_-2">JOEY COFONE</div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-7">
+                      <div className="main-1-8-1-11">
                           <div className="main-ceo_co-founder_-0">
                               {"CEO | Co-Founder,"}
                           </div>
-                          <a href="https://www.baronfig.com/" target="_blank" className="main-1-8-1-7-1">
+                          <a href="https://www.baronfig.com/" target="_blank" className="main-1-8-1-11-1">
                               <div className="main-referencelink_instance-7">
                                   <Referencelink text={"Baron Fig"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-8">
-                          <a href="http://joeycofone.com/about/" target="_blank" className="main-1-8-1-8-0">
+                      <div className="main-1-8-1-12">
+                          <a href="http://joeycofone.com/about/" target="_blank" className="main-1-8-1-12-0">
                               <div className="main-referencelink_instance-3">
                                   <Referencelink text={"Award winning designer"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-9">
+                      <div className="main-1-8-1-13">
                           <div className="main-_marcus_is_a_fellow_startup_founder_i_ve_met_with_a_few_times_in_nyc_who_is_serious_determined_and_extremely_smart_i_ve_watched_him_build_up_wurk_happy_from_idea_stage_to_design_mockup_to_product_and_he_knows_how_to_get_things_done_-6">
                               {"\"Marcus is a fellow startup founder I've met with a few times in NYC who is serious, determined, and extremely smart. I've watched him build up Wurk Happy from idea stage to design mockup to product, and he knows how to get things done.\""}
                           </div>
                       </div>
-                      <div className="main-1-8-1-10">
-                          <a href="https://www.linkedin.com/in/andrewmontalenti/" target="_blank" className="main-1-8-1-10-0">
+                      <div className="main-1-8-1-14">
+                          <a href="https://www.linkedin.com/in/andrewmontalenti/" target="_blank" className="main-1-8-1-14-0">
                               <div className="main-andrew_montalenti_-6">
                                   ANDREW MONTALENTI
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-11">
+                      <div className="main-1-8-1-15">
                           <div className="main-cto_co-founder_-8">
                               {"CTO | Co-Founder, "}
                           </div>
-                          <a href="https://www.parse.ly/" target="_blank" className="main-1-8-1-11-1">
+                          <a href="https://www.parse.ly/" target="_blank" className="main-1-8-1-15-1">
                               <div className="main-referencelink_instance-87">
                                   <Referencelink text={"Parse.ly"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-12">
-                          <a href="https://blog.parse.ly/post/6282/why-we-said-no-vc-money/" target="_blank" className="main-1-8-1-12-0">
+                      <div className="main-1-8-1-16">
+                          <a href="https://blog.parse.ly/post/6282/why-we-said-no-vc-money/" target="_blank" className="main-1-8-1-16-0">
                               <div className="main-referencelink_instance-26">
                                   <Referencelink text={"Turned down $40 million investment offer"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-13">
+                      <div className="main-1-8-1-17">
                           <div className="main-_amazing_and_large_underserved_space_that_needs_better_aggregation_platforms_and_technology_marcus_and_team_wurk_happy_are_winners_and_the_technical_talent_is_also_strong_looking_forward_to_their_inevitable_sucess_with_the_correct_financial_partners_-5">
                               {"\"Amazing and large underserved space that needs better aggregation platforms and technology. Marcus and team [Wurk Happy] are winners and the technical talent is also strong. Looking forward to their inevitable sucess with the correct financial partners....\""}
                           </div>
                       </div>
-                      <div className="main-1-8-1-14">
-                          <a href="https://www.linkedin.com/in/davidolk/" target="_blank" className="main-1-8-1-14-0">
+                      <div className="main-1-8-1-18">
+                          <a href="https://www.linkedin.com/in/davidolk/" target="_blank" className="main-1-8-1-18-0">
                               <div className="main-david_olk_-1">DAVID OLK</div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-15">
+                      <div className="main-1-8-1-19">
                           <div className="main-coo_co-founder_-6">
                               {"COO | Co-Founder,"}
                           </div>
-                          <a href="https://www.shopkeep.com/" target="_blank" className="main-1-8-1-15-1">
+                          <a href="https://www.shopkeep.com/" target="_blank" className="main-1-8-1-19-1">
                               <div className="main-referencelink_instance-63">
                                   <Referencelink text={"ShopKeep"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-16">
-                          <a href="https://venturebeat.com/2015/07/28/shopkeep-focuses-on-growth-with-60-million-in-series-d-funding/" target="_blank" className="main-1-8-1-16-0">
+                      <div className="main-1-8-1-20">
+                          <a href="https://venturebeat.com/2015/07/28/shopkeep-focuses-on-growth-with-60-million-in-series-d-funding/" target="_blank" className="main-1-8-1-20-0">
                               <div className="main-referencelink_instance-12">
                                   <Referencelink text={"Raised over $100M"} /> 
                               </div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-17">
+                      <div className="main-1-8-1-21">
                           <div className="main-_working_with_marcus_is_always_a_pleasure_as_he_is_an_engineer_who_builds_things_from_first_principles_when_they_are_truly_needed_and_doesn_t_get_carried_away_with_the_current_fads_plus_he_s_just_a_genuinely_nice_guy_-4">
                               {"\"Working with Marcus is always a pleasure as he is an engineer who builds things from first principles when they are truly needed, and doesn’t get carried away with the current fads. Plus, he’s just a genuinely nice guy.\""}
                           </div>
                       </div>
-                      <div className="main-1-8-1-18">
-                          <a href="https://www.linkedin.com/in/theodorewyly/" target="_blank" className="main-1-8-1-18-0">
+                      <div className="main-1-8-1-22">
+                          <a href="https://www.linkedin.com/in/theodorewyly/" target="_blank" className="main-1-8-1-22-0">
                               <div className="main-teddy_wyly_-4">TEDDY WYLY</div>
                           </a>
                       </div>
-                      <div className="main-1-8-1-19">
+                      <div className="main-1-8-1-23">
                           <div className="main-software_engineer_-1">
                               Software Engineer,
                           </div>
-                          <a href="https://www.apple.com/" target="_blank" className="main-1-8-1-19-1">
+                          <a href="https://www.apple.com/" target="_blank" className="main-1-8-1-23-1">
                               <div className="main-referencelink_instance-54">
                                   <Referencelink text={"Apple"} /> 
                               </div>

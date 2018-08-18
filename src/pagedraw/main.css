@@ -759,7 +759,7 @@
 .main-rectangle_8 {
     display: flex;
     flex-direction: column;
-    padding-top: 43px;
+    padding-top: 10px;
     padding-bottom: 25px;
     background: rgba(216, 216, 216, 0);
 }
@@ -903,7 +903,7 @@
 .main-0-14 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 11px;
+    margin-top: 10px;
 }
 
 .main-0-14-0 {
@@ -916,7 +916,7 @@
     display: flex;
     flex-direction: column;
     padding-top: 24px;
-    padding-bottom: 2px;
+    padding-bottom: 30px;
     background: rgba(216, 216, 216, 0);
 }
 
@@ -946,6 +946,117 @@
     display: flex;
     flex-shrink: 0;
     margin-top: 40px;
+    padding-left: 8px;
+    padding-right: 7px;
+}
+
+.main-_marcus_is_a_very_talented_entrepreneur_who_has_boundless_energy_and_an_incredible_work_ethic_he_thoroughly_understands_all_aspects_of_building_a_start-up_business_from_product_development_to_bizdev_to_coding_super_impressive_guy_-3 {
+    width: 335px;
+    flex-shrink: 0;
+    font-family: "Arvo", serif;
+    color: rgb(102, 102, 102);
+    font-size: 14px;
+    line-height: 29px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.main-0-14-1-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 12px;
+    padding-left: 118px;
+    padding-right: 130px;
+}
+
+.main-0-14-1-2-0 {
+    flex-shrink: 0;
+    display: flex;
+}
+
+.main-david_gowdey_-5 {
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: rgb(41, 41, 41);
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+    padding-right: 0.4375px;
+    flex-grow: 1;
+}
+
+.main-0-14-1-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 10px;
+    padding-left: 67px;
+    padding-right: 67px;
+}
+
+.main-managing_partner_-7 {
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: rgba(102, 102, 102, 0.7);
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+    padding-right: 0.625px;
+}
+
+.main-0-14-1-3-1 {
+    flex-shrink: 0;
+    margin-left: 6px;
+    display: flex;
+}
+
+.main-referencelink_instance-6 {
+    display: flex;
+    flex-direction: column;
+    min-width: 99px;
+    flex-grow: 1;
+}
+
+.main-0-14-1-4 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 5px;
+    padding-left: 59px;
+    padding-right: 60px;
+}
+
+.main-largest_early_stage_vc_fund_in_se_asia_-3 {
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: rgba(102, 102, 102, 0.7);
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+    padding-right: 0.75px;
+}
+
+.main-0-14-1-5 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 40px;
     padding-left: 7px;
     padding-right: 8px;
 }
@@ -965,7 +1076,7 @@
     word-wrap: break-word;
 }
 
-.main-0-14-1-2 {
+.main-0-14-1-6 {
     display: flex;
     flex-shrink: 0;
     margin-top: 12px;
@@ -973,7 +1084,7 @@
     padding-right: 118px;
 }
 
-.main-0-14-1-2-0 {
+.main-0-14-1-6-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -994,21 +1105,21 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-3 {
+.main-0-14-1-7 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 11px;
+    margin-top: 10px;
     padding-left: 91px;
     padding-right: 91px;
 }
 
-.main-0-14-1-3-0 {
+.main-0-14-1-7-0 {
     display: flex;
     flex-direction: column;
     padding-bottom: 1px;
 }
 
-.main-0-14-1-3-0-0 {
+.main-0-14-1-7-0-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1028,23 +1139,23 @@
     padding-right: 0.5034637451171875px;
 }
 
-.main-0-14-1-3-1 {
+.main-0-14-1-7-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
 }
 
-.main-referencelink_instance-6 {
+.main-referencelink_instance-61 {
     display: flex;
     flex-direction: column;
     min-width: 48px;
     flex-grow: 1;
 }
 
-.main-0-14-1-4 {
+.main-0-14-1-8 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 5px;
+    margin-top: 4px;
     padding-left: 108px;
     padding-right: 108px;
 }
@@ -1056,10 +1167,10 @@
     min-width: 134px;
 }
 
-.main-0-14-1-5 {
+.main-0-14-1-9 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 40px;
+    margin-top: 42px;
     padding-left: 7px;
     padding-right: 8px;
 }
@@ -1079,7 +1190,7 @@
     word-wrap: break-word;
 }
 
-.main-0-14-1-6 {
+.main-0-14-1-10 {
     display: flex;
     flex-shrink: 0;
     margin-top: 8px;
@@ -1087,7 +1198,7 @@
     padding-right: 129px;
 }
 
-.main-0-14-1-6-0 {
+.main-0-14-1-10-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1108,7 +1219,7 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-7 {
+.main-0-14-1-11 {
     display: flex;
     flex-shrink: 0;
     margin-top: 11px;
@@ -1116,13 +1227,13 @@
     padding-right: 86px;
 }
 
-.main-0-14-1-7-0 {
+.main-0-14-1-11-0 {
     display: flex;
     flex-direction: column;
     padding-bottom: 1px;
 }
 
-.main-0-14-1-7-0-0 {
+.main-0-14-1-11-0-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1143,7 +1254,7 @@
     padding-right: 0.5034637451171875px;
 }
 
-.main-0-14-1-7-1 {
+.main-0-14-1-11-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -1156,15 +1267,15 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-8 {
+.main-0-14-1-12 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 3px;
+    margin-top: 4px;
     padding-left: 102px;
     padding-right: 102px;
 }
 
-.main-0-14-1-8-0 {
+.main-0-14-1-12-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1176,10 +1287,10 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-9 {
+.main-0-14-1-13 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 40px;
+    margin-top: 39px;
     padding-left: 7px;
     padding-right: 8px;
 }
@@ -1199,7 +1310,7 @@
     word-wrap: break-word;
 }
 
-.main-0-14-1-10 {
+.main-0-14-1-14 {
     display: flex;
     flex-shrink: 0;
     margin-top: 10px;
@@ -1207,7 +1318,7 @@
     padding-right: 103px;
 }
 
-.main-0-14-1-10-0 {
+.main-0-14-1-14-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1228,7 +1339,7 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-11 {
+.main-0-14-1-15 {
     display: flex;
     flex-shrink: 0;
     margin-top: 11px;
@@ -1236,13 +1347,13 @@
     padding-right: 90px;
 }
 
-.main-0-14-1-11-0 {
+.main-0-14-1-15-0 {
     display: flex;
     flex-direction: column;
     padding-bottom: 1px;
 }
 
-.main-0-14-1-11-0-0 {
+.main-0-14-1-15-0-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1263,7 +1374,7 @@
     padding-right: 0.7812423706054688px;
 }
 
-.main-0-14-1-11-1 {
+.main-0-14-1-15-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -1276,15 +1387,15 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-12 {
+.main-0-14-1-16 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 5px;
+    margin-top: 4px;
     padding-left: 44px;
     padding-right: 45px;
 }
 
-.main-0-14-1-12-0 {
+.main-0-14-1-16-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1296,10 +1407,10 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-13 {
+.main-0-14-1-17 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 40px;
+    margin-top: 41px;
     padding-left: 7px;
     padding-right: 8px;
 }
@@ -1319,7 +1430,7 @@
     word-wrap: break-word;
 }
 
-.main-0-14-1-14 {
+.main-0-14-1-18 {
     display: flex;
     flex-shrink: 0;
     margin-top: 10px;
@@ -1327,7 +1438,7 @@
     padding-right: 141px;
 }
 
-.main-0-14-1-14-0 {
+.main-0-14-1-18-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1348,7 +1459,7 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-15 {
+.main-0-14-1-19 {
     display: flex;
     flex-shrink: 0;
     margin-top: 11px;
@@ -1356,13 +1467,13 @@
     padding-right: 82px;
 }
 
-.main-0-14-1-15-0 {
+.main-0-14-1-19-0 {
     display: flex;
     flex-direction: column;
     padding-bottom: 1px;
 }
 
-.main-0-14-1-15-0-0 {
+.main-0-14-1-19-0-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1383,7 +1494,7 @@
     padding-right: 0.19443511962890625px;
 }
 
-.main-0-14-1-15-1 {
+.main-0-14-1-19-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -1396,15 +1507,15 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-16 {
+.main-0-14-1-20 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 5px;
+    margin-top: 4px;
     padding-left: 115px;
     padding-right: 115px;
 }
 
-.main-0-14-1-16-0 {
+.main-0-14-1-20-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1416,10 +1527,10 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-17 {
+.main-0-14-1-21 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 40px;
+    margin-top: 41px;
     padding-left: 7px;
     padding-right: 8px;
 }
@@ -1439,7 +1550,7 @@
     word-wrap: break-word;
 }
 
-.main-0-14-1-18 {
+.main-0-14-1-22 {
     display: flex;
     flex-shrink: 0;
     margin-top: 13px;
@@ -1447,7 +1558,7 @@
     padding-right: 133px;
 }
 
-.main-0-14-1-18-0 {
+.main-0-14-1-22-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1468,21 +1579,21 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-19 {
+.main-0-14-1-23 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 9px;
+    margin-top: 5px;
     padding-left: 97px;
     padding-right: 97px;
 }
 
-.main-0-14-1-19-0 {
+.main-0-14-1-23-0 {
     display: flex;
     flex-direction: column;
     padding-bottom: 1px;
 }
 
-.main-0-14-1-19-0-0 {
+.main-0-14-1-23-0-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1503,7 +1614,7 @@
     padding-right: 0.1631927490234375px;
 }
 
-.main-0-14-1-19-1 {
+.main-0-14-1-23-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -1516,10 +1627,10 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-20 {
+.main-0-14-1-24 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 59px;
+    margin-top: 63px;
     padding-left: 108px;
     padding-right: 109px;
 }
@@ -1539,7 +1650,7 @@
     padding-right: 0.30902099609375px;
 }
 
-.main-0-14-1-21 {
+.main-0-14-1-25 {
     display: flex;
     flex-shrink: 0;
     margin-top: 38px;
@@ -1547,7 +1658,7 @@
     padding-right: 21px;
 }
 
-.main-0-14-1-21-0 {
+.main-0-14-1-25-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1559,7 +1670,7 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-22 {
+.main-0-14-1-26 {
     display: flex;
     flex-shrink: 0;
     margin-top: 21px;
@@ -1567,7 +1678,7 @@
     padding-right: 15px;
 }
 
-.main-0-14-1-22-0 {
+.main-0-14-1-26-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1579,14 +1690,14 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-23 {
+.main-0-14-1-27 {
     display: flex;
     flex-shrink: 0;
     margin-top: 19px;
     padding-right: 1px;
 }
 
-.main-0-14-1-23-0 {
+.main-0-14-1-27-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -1598,25 +1709,25 @@
     flex-grow: 1;
 }
 
-.main-0-14-1-24 {
+.main-0-14-1-28 {
     display: flex;
     flex-shrink: 0;
     margin-top: 19px;
-    padding-left: 86px;
-    padding-right: 18px;
+    padding-left: 95px;
+    padding-right: 96px;
 }
 
 .main-bloglink_instance-83 {
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
-    min-width: 246px;
+    min-width: 159px;
 }
 
-.main-0-14-1-25 {
+.main-0-14-1-29 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 59px;
+    margin-top: 58px;
     padding-left: 102px;
     padding-right: 103px;
 }
@@ -1636,7 +1747,7 @@
     padding-right: 0.6770782470703125px;
 }
 
-.main-0-14-1-26 {
+.main-0-14-1-30 {
     display: flex;
     flex-shrink: 0;
     margin-top: 40px;
@@ -1658,7 +1769,7 @@
     padding-right: 0.003448486328125px;
 }
 
-.main-0-14-1-27 {
+.main-0-14-1-31 {
     display: flex;
     flex-shrink: 0;
     margin-top: 11px;
@@ -1690,7 +1801,7 @@
 .main-0-15 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 58px;
+    margin-top: 27px;
 }
 
 .main-line_2 {
@@ -2902,7 +3013,7 @@
     display: flex;
     flex-direction: column;
     padding-top: 8px;
-    padding-bottom: 9px;
+    padding-bottom: 6px;
     background: rgba(216, 216, 216, 0);
 }
 
@@ -2934,7 +3045,7 @@
     margin-top: 40px;
 }
 
-.main-_marcus_and_i_went_to_nyu_together_he_s_a_super_smart_entrepreneur_with_big_ideas_and_fine_execution_i_often_believe_in_backing_people_over_ideas_marcus_is_a_perfect_example_of_the_type_of_person_i_would_back_even_without_an_idea_-5 {
+.main-_marcus_is_a_very_talented_entrepreneur_who_has_boundless_energy_and_an_incredible_work_ethic_he_thoroughly_understands_all_aspects_of_building_a_start-up_business_from_product_development_to_bizdev_to_coding_super_impressive_guy_-0 {
     width: 695px;
     flex-shrink: 0;
     font-family: "Arvo", serif;
@@ -2953,11 +3064,120 @@
     display: flex;
     flex-shrink: 0;
     margin-top: 20px;
+    padding-left: 293px;
+    padding-right: 300px;
+}
+
+.main-1-8-1-2-0 {
+    flex-shrink: 0;
+    display: flex;
+}
+
+.main-david_gowdey_-9 {
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: rgb(41, 41, 41);
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+    padding-right: 0.4375px;
+    flex-grow: 1;
+}
+
+.main-1-8-1-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 10px;
+    padding-left: 239px;
+    padding-right: 240px;
+}
+
+.main-managing_partner_-6 {
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: rgba(102, 102, 102, 0.7);
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+    padding-right: 0.625px;
+}
+
+.main-1-8-1-3-1 {
+    flex-shrink: 0;
+    margin-left: 5px;
+    display: flex;
+}
+
+.main-referencelink_instance-4 {
+    display: flex;
+    flex-direction: column;
+    min-width: 100px;
+    flex-grow: 1;
+}
+
+.main-1-8-1-4 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 5px;
+    padding-left: 232px;
+    padding-right: 232px;
+}
+
+.main-largest_early_stage_vc_fund_in_se_asia_-5 {
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: rgba(102, 102, 102, 0.7);
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+    padding-right: 0.75px;
+}
+
+.main-1-8-1-5 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 41px;
+}
+
+.main-_marcus_and_i_went_to_nyu_together_he_s_a_super_smart_entrepreneur_with_big_ideas_and_fine_execution_i_often_believe_in_backing_people_over_ideas_marcus_is_a_perfect_example_of_the_type_of_person_i_would_back_even_without_an_idea_-5 {
+    width: 695px;
+    flex-shrink: 0;
+    font-family: "Arvo", serif;
+    color: rgb(102, 102, 102);
+    font-size: 16px;
+    line-height: 29px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.main-1-8-1-6 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 20px;
     padding-left: 291px;
     padding-right: 289px;
 }
 
-.main-1-8-1-2-0 {
+.main-1-8-1-6-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -2978,7 +3198,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-3 {
+.main-1-8-1-7 {
     display: flex;
     flex-shrink: 0;
     margin-top: 10px;
@@ -3001,7 +3221,7 @@
     padding-right: 0.515625px;
 }
 
-.main-1-8-1-3-1 {
+.main-1-8-1-7-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -3014,7 +3234,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-4 {
+.main-1-8-1-8 {
     display: flex;
     flex-shrink: 0;
     margin-top: 5px;
@@ -3029,7 +3249,7 @@
     min-width: 134px;
 }
 
-.main-1-8-1-5 {
+.main-1-8-1-9 {
     display: flex;
     flex-shrink: 0;
     margin-top: 40px;
@@ -3050,7 +3270,7 @@
     word-wrap: break-word;
 }
 
-.main-1-8-1-6 {
+.main-1-8-1-10 {
     display: flex;
     flex-shrink: 0;
     margin-top: 20px;
@@ -3058,7 +3278,7 @@
     padding-right: 300px;
 }
 
-.main-1-8-1-6-0 {
+.main-1-8-1-10-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -3079,7 +3299,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-7 {
+.main-1-8-1-11 {
     display: flex;
     flex-shrink: 0;
     margin-top: 10px;
@@ -3103,7 +3323,7 @@
     padding-right: 0.5px;
 }
 
-.main-1-8-1-7-1 {
+.main-1-8-1-11-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -3116,7 +3336,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-8 {
+.main-1-8-1-12 {
     display: flex;
     flex-shrink: 0;
     margin-top: 3px;
@@ -3124,7 +3344,7 @@
     padding-right: 273px;
 }
 
-.main-1-8-1-8-0 {
+.main-1-8-1-12-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -3136,7 +3356,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-9 {
+.main-1-8-1-13 {
     display: flex;
     flex-shrink: 0;
     margin-top: 40px;
@@ -3157,7 +3377,7 @@
     word-wrap: break-word;
 }
 
-.main-1-8-1-10 {
+.main-1-8-1-14 {
     display: flex;
     flex-shrink: 0;
     margin-top: 20px;
@@ -3165,7 +3385,7 @@
     padding-right: 274px;
 }
 
-.main-1-8-1-10-0 {
+.main-1-8-1-14-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -3186,7 +3406,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-11 {
+.main-1-8-1-15 {
     display: flex;
     flex-shrink: 0;
     margin-top: 10px;
@@ -3210,7 +3430,7 @@
     padding-right: 0.78125px;
 }
 
-.main-1-8-1-11-1 {
+.main-1-8-1-15-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -3223,7 +3443,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-12 {
+.main-1-8-1-16 {
     display: flex;
     flex-shrink: 0;
     margin-top: 5px;
@@ -3231,7 +3451,7 @@
     padding-right: 216px;
 }
 
-.main-1-8-1-12-0 {
+.main-1-8-1-16-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -3243,7 +3463,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-13 {
+.main-1-8-1-17 {
     display: flex;
     flex-shrink: 0;
     margin-top: 40px;
@@ -3264,7 +3484,7 @@
     word-wrap: break-word;
 }
 
-.main-1-8-1-14 {
+.main-1-8-1-18 {
     display: flex;
     flex-shrink: 0;
     margin-top: 20px;
@@ -3272,7 +3492,7 @@
     padding-right: 312px;
 }
 
-.main-1-8-1-14-0 {
+.main-1-8-1-18-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -3293,7 +3513,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-15 {
+.main-1-8-1-19 {
     display: flex;
     flex-shrink: 0;
     margin-top: 10px;
@@ -3317,7 +3537,7 @@
     padding-right: 0.1875px;
 }
 
-.main-1-8-1-15-1 {
+.main-1-8-1-19-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -3330,7 +3550,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-16 {
+.main-1-8-1-20 {
     display: flex;
     flex-shrink: 0;
     margin-top: 5px;
@@ -3338,7 +3558,7 @@
     padding-right: 286px;
 }
 
-.main-1-8-1-16-0 {
+.main-1-8-1-20-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -3350,7 +3570,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-17 {
+.main-1-8-1-21 {
     display: flex;
     flex-shrink: 0;
     margin-top: 40px;
@@ -3371,7 +3591,7 @@
     word-wrap: break-word;
 }
 
-.main-1-8-1-18 {
+.main-1-8-1-22 {
     display: flex;
     flex-shrink: 0;
     margin-top: 20px;
@@ -3379,7 +3599,7 @@
     padding-right: 302px;
 }
 
-.main-1-8-1-18-0 {
+.main-1-8-1-22-0 {
     flex-shrink: 0;
     display: flex;
 }
@@ -3400,7 +3620,7 @@
     flex-grow: 1;
 }
 
-.main-1-8-1-19 {
+.main-1-8-1-23 {
     display: flex;
     flex-shrink: 0;
     margin-top: 8px;
@@ -3424,7 +3644,7 @@
     padding-right: 0.171875px;
 }
 
-.main-1-8-1-19-1 {
+.main-1-8-1-23-1 {
     flex-shrink: 0;
     margin-left: 5px;
     display: flex;
@@ -3446,7 +3666,7 @@
 .main-1-9 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 24px;
+    margin-top: 28px;
     padding-left: 601px;
     padding-right: 602px;
 }
