@@ -1,7 +1,3 @@
-
-
-
-
-# Marcus Ellison: Entrepreneur | Maker | Coder
+# Marcus Ellison: Intentional Designer | Unintentional Coder
 
 http://www.marcusellison.com/
