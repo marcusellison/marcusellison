@@ -33,7 +33,7 @@ module.exports = {
         externalLinks: [
           {
             name: `Thinking`,
-            url: `thoughts.marcusellison.com`,
+            url: `thinking.marcusellison.com`,
           },
           {
             name: `Twitter`,
